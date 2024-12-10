@@ -1,2 +1,3 @@
 # TicTacToe-Game
 A simple two-player Tic Tac Toe game in C++ with a terminal-based interface and win/draw detection.
+This Tic Tac Toe game in C++ allows two players to compete in a terminal-based interface. Players take turns marking cells on a 3x3 grid using 'X' and 'O', with the game detecting wins, draws, or invalid moves. The **board()** function handles the display of the grid, while **checkwin()** checks for winning conditions or a **draw**. Input validation ensures players cannot overwrite existing marks. The game is simple, interactive, and demonstrates fundamental programming concepts like conditional statements, loops, and modular design.
